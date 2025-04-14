@@ -16,19 +16,4 @@
 
 
 
-<!-- github states and trofee -->
-<p align="center">
-   <table>
-   <h1 align="center">📊 Github Stats</h1>
-       <tr>
-       <td><img alt="IT-Lab-Industry :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=IT-Lab-Industry&theme=highcontrast&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-       </td>
-       <td><img alt="IT-Lab-Industry :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Lab-Industry&langs_count=14&theme=highcontrast&layout=compact"> 
-        </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IT-Lab-Industry&theme=highcontrast&hide_border=true"></td>
-     </tr>
-   </table>
-</p>
 
